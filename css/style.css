@@ -436,11 +436,18 @@ body{
     }
     .header-buttom{
         width: 55vw;
+        height: 7vh;
     }
     .boton1{
         width: 31vw;
+        height: 5vh;
     }
     .boton2{
         width: 21vw;
+        height: 5vh;
+    }
+    .button-target, #button-especial{
+        padding-top: 10px;
+        height: 37px;
     }
 }
